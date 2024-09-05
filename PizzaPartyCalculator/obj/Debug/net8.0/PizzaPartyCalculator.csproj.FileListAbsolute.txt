@@ -1,0 +1,15 @@
+/workspaces/module2lab/PizzaPartyCalculator/bin/Debug/net8.0/PizzaPartyCalculator
+/workspaces/module2lab/PizzaPartyCalculator/bin/Debug/net8.0/PizzaPartyCalculator.deps.json
+/workspaces/module2lab/PizzaPartyCalculator/bin/Debug/net8.0/PizzaPartyCalculator.runtimeconfig.json
+/workspaces/module2lab/PizzaPartyCalculator/bin/Debug/net8.0/PizzaPartyCalculator.dll
+/workspaces/module2lab/PizzaPartyCalculator/bin/Debug/net8.0/PizzaPartyCalculator.pdb
+/workspaces/module2lab/PizzaPartyCalculator/obj/Debug/net8.0/PizzaPartyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/module2lab/PizzaPartyCalculator/obj/Debug/net8.0/PizzaPartyCalculator.AssemblyInfoInputs.cache
+/workspaces/module2lab/PizzaPartyCalculator/obj/Debug/net8.0/PizzaPartyCalculator.AssemblyInfo.cs
+/workspaces/module2lab/PizzaPartyCalculator/obj/Debug/net8.0/PizzaPartyCalculator.csproj.CoreCompileInputs.cache
+/workspaces/module2lab/PizzaPartyCalculator/obj/Debug/net8.0/PizzaPartyCalculator.sourcelink.json
+/workspaces/module2lab/PizzaPartyCalculator/obj/Debug/net8.0/PizzaPartyCalculator.dll
+/workspaces/module2lab/PizzaPartyCalculator/obj/Debug/net8.0/refint/PizzaPartyCalculator.dll
+/workspaces/module2lab/PizzaPartyCalculator/obj/Debug/net8.0/PizzaPartyCalculator.pdb
+/workspaces/module2lab/PizzaPartyCalculator/obj/Debug/net8.0/PizzaPartyCalculator.genruntimeconfig.cache
+/workspaces/module2lab/PizzaPartyCalculator/obj/Debug/net8.0/ref/PizzaPartyCalculator.dll
