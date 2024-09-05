@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PizzaPartyCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c1589c2e69ac875d76f1671b9269c75b921329b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14d87e4f0d34a8d16f47c9d8860f42c7a3811cea")]
 [assembly: System.Reflection.AssemblyProductAttribute("PizzaPartyCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PizzaPartyCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
